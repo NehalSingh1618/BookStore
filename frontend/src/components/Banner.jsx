@@ -9,7 +9,7 @@ function Banner() {
         <h1 className="text-4xl font-bold">Hello, welcome here to learn something <span className="text-pink-500">new everyday!!!</span>
         </h1>
         <p className="text-xl">
-        Lorem ipsum odor amet, consectetuer adipiscing elit. Habitant integer dapibus mus pellentesque diam; nibh sem aptent. Gravida conubia hac vel tempor amet auctor nullam ornare donec. Sed maximus dictum praesent, vivamus fermentum curae.
+        Discover curated books and courses that help you build practical skills. Start with free titles, then explore premium learning paths as your goals grow.
         </p>
 
         <label className="input input-bordered flex items-center gap-2">
